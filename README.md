@@ -1,4 +1,4 @@
-# Couse สอน Codeiginter (PHP Framework) From Zero to Hero
+# Course สอน Codeiginter (PHP Framework) From Zero to Hero
 <h3>Course Outline Codeiginter Training 2016</h3>
 
 <h3>เกริ่นนำหลักสูตร</h3>
